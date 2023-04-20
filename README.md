@@ -10,4 +10,4 @@ En este proyecto, se seguirá el proceso de Scrum, que consta de los siguientes 
 - Revisión del sprint: Al final del sprint, el equipo se reunirá para revisar el trabajo realizado y hacer ajustes para el siguiente sprint.
 - Retrospectiva del sprint: El equipo se reunirá para discutir lo que funcionó bien en el sprint y lo que se podría mejorar en el siguiente sprint.
 
-Siguiendo este proceso, esperamos poder desarrollar el proyecto de manera eficiente y eficaz, garantizando un alto nivel de calidad y una entrega oportuna del producto final.
+Siguiendo este proceso, esperamos poder desarrollar el proyecto de manera eficiente y eficaz, garantizando un alto nivel de calidad y una entrega oportuna.
